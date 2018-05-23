@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Labs</string>
+    <string name="hide_progress_bar">Hide progress bar</string>
+    <string name="show_progress_bar">Show progress bar</string>
 </resources>
